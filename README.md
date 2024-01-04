@@ -1,1 +1,1 @@
-# data-cleaning-netflix-pandas
+# data projects
